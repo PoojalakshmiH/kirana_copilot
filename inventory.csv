@@ -1,0 +1,11 @@
+product,stock,min_stock,target_stock,unit_price,expiry_days,daily_sales
+Fortune Oil 1L,4,15,20,135,90,3
+Rice 25kg,2,5,6,1050,180,1
+Jaggery 1kg,5,10,35,46,60,4
+Tata Salt 1kg,8,12,25,22,240,5
+Maggi 70g,42,20,50,14,12,7
+Parle-G,12,15,30,20,120,6
+Rusk,18,10,20,25,5,2
+Milk 500ml,6,10,15,30,2,10
+Sugar 1kg,10,15,25,45,150,4
+Toor Dal 1kg,7,12,20,130,100,2
